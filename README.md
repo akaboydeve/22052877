@@ -2,6 +2,14 @@
 
 This is a premium React application for social media analytics with a beautiful dark UI.
 
+## Screenshots
+
+### Top Users Page
+![Top Users Page](./Screenshot%202025-04-02%20202550.png)
+
+### Trending Posts Loading
+![Trending Posts Loading](./Screenshot%202025-04-02%20202558.png)
+
 ## Features
 
 - **Top Users Page**: Displays the top 5 users with the highest post count
